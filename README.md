@@ -1,4 +1,4 @@
-NavigateCompose
+**NavigateCompose**
 
 A simple Android Jetpack Compose project demonstrating navigation between two screens.
 
